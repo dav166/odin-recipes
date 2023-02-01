@@ -1,0 +1,13 @@
+h1{
+    color: mediumseagreen;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+}
+div{
+    background-color: palegoldenrod;
+    margin: 20px;
+}
+li{
+    margin: 10px;
+}
